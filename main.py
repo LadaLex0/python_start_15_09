@@ -1,1 +1,1 @@
-print ('Hello, World!')
+print ('Good morning!','Good afternoon!','Good evening!')
